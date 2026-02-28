@@ -4,6 +4,7 @@ DDL Script: Create Gold views
 
 Script Purpose:
 	- This script creates the views for the 'gold' layer in the data warehouse.
+	- Why do we create a view instead of a table? To save space, to show the most recent data from the Silver layer and because a view is easier to modify than a table.
 	- For every dimension, a surrogate key will be created. Surrogate keys are important because business keys
 	 (product_id,customer_id) can change over time in the source system.
 	- The data from the 'silver' layer will be used to create this layer.
