@@ -73,7 +73,7 @@ Script Purpose:
 		pr.product_key,
 		cu.customer_key,
 		sl.sls_order_dt AS order_date,
-		sl.sls_ship_dt AS shippin_date,
+		sl.sls_ship_dt AS shipping_date,
 		sl.sls_due_dt AS due_date,
 		sl.sls_sales sales_amount,
 		sl.sls_quantity AS quantity,
