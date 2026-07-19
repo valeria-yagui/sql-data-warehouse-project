@@ -1,4 +1,4 @@
-## 🏗️ Building a Data Warehouse Project
+## Building a Data Warehouse Project
 
 Hello and welcome to my first project!  
 I am building a **data warehouse** using **SQL Server**, including *ETL processes* and *data modeling*.  
@@ -20,7 +20,7 @@ Special thanks to [@DataWithBaraa](https://github.com/DataWithBaraa) for the inc
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Hi there! I’m **Valeria Yagui**, from Lima, Peru.  
 I'm currently pursuing a **Master’s degree in Digital Business Management** at **Hochschule Pforzheim** in Germany.  
